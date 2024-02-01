@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\atm sys console\atm sys console\obj\Debug\net7.0\atm sys console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\atm sys console\atm sys console\obj\Debug\net7.0\atm sys console.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\atm sys console\atm sys console\obj\Debug\net7.0\atm sys console.AssemblyInfo.cs
+C:\Users\HP\source\repos\atm sys console\atm sys console\obj\Debug\net7.0\atm sys console.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\atm\atm sys console\obj\Debug\net7.0\atm sys console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\atm\atm sys console\obj\Debug\net7.0\atm sys console.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\atm\atm sys console\obj\Debug\net7.0\atm sys console.AssemblyInfo.cs
+C:\Users\HP\source\repos\atm\atm sys console\obj\Debug\net7.0\atm sys console.csproj.CoreCompileInputs.cache
